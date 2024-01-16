@@ -1,0 +1,14 @@
+C:\Users\invic\source\repos\RM\bin\Debug\RM.exe.config
+C:\Users\invic\source\repos\RM\bin\Debug\RM.exe
+C:\Users\invic\source\repos\RM\bin\Debug\RM.pdb
+C:\Users\invic\source\repos\RM\obj\Debug\RM.csproj.AssemblyReference.cache
+C:\Users\invic\source\repos\RM\obj\Debug\RM.Properties.Resources.resources
+C:\Users\invic\source\repos\RM\obj\Debug\RM.csproj.GenerateResource.cache
+C:\Users\invic\source\repos\RM\obj\Debug\RM.csproj.CoreCompileInputs.cache
+C:\Users\invic\source\repos\RM\obj\Debug\RM.exe
+C:\Users\invic\source\repos\RM\obj\Debug\RM.pdb
+C:\Users\invic\source\repos\RM\obj\Debug\RM.Login.resources
+C:\Users\invic\source\repos\RM\obj\Debug\RM.Main.resources
+C:\Users\invic\source\repos\RM\obj\Debug\RM.Food.resources
+C:\Users\invic\source\repos\RM\obj\Debug\RM.Waiter.resources
+C:\Users\invic\source\repos\RM\obj\Debug\RM.Payment.resources
